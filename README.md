@@ -10,4 +10,5 @@ potential employers what I'm capable of. If you have any suggestions,
 ideas or general advice, feel free to put them in here. 
 
 Thanks for stopping by,
+
 Bryce
