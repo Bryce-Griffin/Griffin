@@ -5,13 +5,13 @@ import re, pyperclip, pprint
 # Creates a regex for phone numbers
 phoneNumbers = re.compile('''#This program will search for these formats: 713-222-2222, 000-0000 ext 123, (281) 055-0555
 (
-((\d\d\d)|(\(\d\d\d\)))?              #area code (optional)
-(\s|-)                            #first separator
+((\d\d\d)|(\(\d\d\d\)))?            #area code (optional)
+(\s|-)                              #first separator
 \d\d\d                              #first 3 digits
--                          #separator
+-                                   #separator
 \d\d\d\d                            #last 4 digits
 ((ext(\.)?\s|x)
-(\d{2,5}))?         #extension (optional)
+(\d{2,5}))?                         #extension (optional)
 )
 ''', re.VERBOSE)
 
