@@ -7,7 +7,9 @@ My name is Bryce Griffin and I am an MIS student that wants to learn
 as many technologies as possible before going off and starting a
 career. I hope to create a few projects to put on my resume and show
 potential employers what I'm capable of. If you have any suggestions,
-ideas or general advice, feel free to put them in here. 
+ideas or general advice, feel free to put them in here. This project
+so far simply searches for phone numbers and e-mails in text from the
+computer's clipboard.
 
 Thanks for stopping by,
 
