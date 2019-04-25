@@ -1,4 +1,4 @@
-# Hello-World
+# Griffin Real Estate
 
 Hey there!
 
@@ -8,8 +8,7 @@ as many technologies as possible before going off and starting a
 career. I hope to create a few projects to put on my resume and show
 potential employers what I'm capable of. If you have any suggestions,
 ideas or general advice, feel free to put them in here. This project
-so far simply searches for phone numbers and e-mails in text from the
-computer's clipboard.
+is an attempt to create a website for my family business.
 
 Thanks for stopping by,
 
